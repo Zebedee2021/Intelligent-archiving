@@ -1,4 +1,4 @@
-# ThinkDSP
+# ThinkDSP Zebedee2021.github.io
 
 LaTeX source and Python code for _Think DSP: Digital Signal Processing in Python_, by Allen B. Downey.
 
